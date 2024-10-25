@@ -1,0 +1,157 @@
+{
+  "home": {
+    "title": "Trang chủ"
+  },
+  "workingSchedule": {
+    "title": "Lịch công tác",
+    "today": "Hôm nay",
+    "add": "Thêm"
+  },
+  "notification": "Thông báo",
+  "account": {
+    "title": "Tài khoản"
+  },
+  "function": {
+    "title": "Chức năng"
+  },
+  "incomingDoc": "Văn bản đến",
+  "outGoingDoc": "Văn bản đi",
+  "job": "Công việc",
+  "convenience": "Tiện ích",
+  "latestNoti": "Thông báo gần đây",
+  "scheduleToday": "Lịch công tác hôm nay",
+  "hello": "Xin chào",
+  "unread": "Chỉ hiện chưa đọc",
+  "readedAll": "Đánh dấu tất cả đã đọc",
+  "filter": "Lọc",
+  "more": "Xem thêm",
+  "document": "Văn bản",
+  "summary": "Trích yếu",
+  "numbered": "Số theo sổ",
+  "identifier": "Số hiệu",
+  "attachment": "Tệp đính kèm",
+  "important": "Mức độ quan trọng",
+  "sendingUnit": "Đơn vị gửi",
+  "typeDoc": "Loại văn bản",
+  "InfoDoc": "Thông tin văn bản",
+  "publishTime": "Ngày ban hành",
+  "transactionHistory": "Lịch sử xử lý",
+  "createNotiAuthority": "Tạo thông báo ủy quyền",
+  "title": "Tiêu đề",
+  "content": "Nội dung",
+  "dateDisplay" : "Hạn hiển thị",
+  "save":"Lưu",
+  "choseTypeNoti": "Chọn loại thông báo",
+  "addNewScheduleWork": "thêm mới công việc",
+  "nameWork": "Tên công việc",
+  "assigner": "Người giao việc",
+  "priorityLevel": "Độ ưu tiên",
+  "startDate": "Ngày nhận việc",
+  "deadline": "Hạn hoàn thành",
+  "reminderBefore" : "Nhắc việc trước (ngày)",
+  "target": "Mục tiêu",
+  "createNew": "Tạo mới",
+  "notiEmpty": "không được để trống",
+  "onlyNumber": "chỉ được điền số nguyên",
+  "chosePriority": "Chọn mức độ ưu tiên",
+  "choseImportant": "Chọn mức độ quan trọng",
+  "processingStatus": "Tình trạng xử lý",
+  "notYet": {
+    "title": "Chưa xử lý"
+  },
+  "internalNotYet": {
+    "title": "Nội bộ chưa xử lý"
+  },
+  "processing": {
+    "title": "Tham gia xử lý"
+  },
+  "processed": {
+    "title": "Đã xử lý"
+  },
+  "internalProcessed": {
+    "title": "Nội bộ đã xử lý"
+  },
+  "individual": {
+    "title": "Cá nhân"
+  },
+  "assigned": {
+    "title": "Được giao"
+  },
+  "sheduCar": {
+    "title": "Lịch trình xe"
+  },
+  "sheduMeeting": {
+    "title": "Lịch họp"
+  },
+  "sheduDuty": {
+    "title": "Lịch trực - lịch pk"
+  },
+  "notifiWork": {
+    "title": "Nhắc việc"
+  },
+  "mainFeature": {
+    "title": "Chức năng chính"
+  },
+  "datePicker": {
+    "cancel": "Hủy",
+    "confirm": "Xác nhận",
+    "monthNames": {
+      "month1": "Tháng 1",
+      "month2": "Tháng 2",
+      "month3": "Tháng 3",
+      "month4": "Tháng 4",
+      "month5": "Tháng 5",
+      "month6": "Tháng 6",
+      "month7": "Tháng 7",
+      "month8": "Tháng 8",
+      "month9": "Tháng 9",
+      "month10": "Tháng 10",
+      "month11": "Tháng 11",
+      "month12": "Tháng 12"
+    },
+    "monthShort": {
+      "monthShort1": "T1",
+      "monthShort2": "T2",
+      "monthShort3": "T3",
+      "monthShort4": "T4",
+      "monthShort5": "T5",
+      "monthShort6": "T6",
+      "monthShort7": "T7",
+      "monthShort8": "T8",
+      "monthShort9": "T9",
+      "monthShort10": "T10",
+      "monthShort11": "T11",
+      "monthShort12": "T12"
+    },
+    "dayNames": {
+      "sunday": "Chủ nhật",
+      "monday": "Thứ hai",
+      "tuesday": "Thứ ba",
+      "wednesday": "Thứ tư",
+      "thursday": "Thứ năm",
+      "friday": "Thứ sáu",
+      "saturday": "Thứ bảy"
+    },
+    "dayNamesShort": {
+      "sunday": "CN",
+      "monday": "T2",
+      "tuesday": "T3",
+      "wednesday": "T4",
+      "thursday": "T5",
+      "friday": "T6",
+      "saturday": "T7"
+    },
+    "today": "Hôm nay"
+  },
+    "confirm": "Xác nhận"
+  ,
+  "workList": {
+    "title": "Danh sách công việc"
+  },
+  "mainHandler": "Người xử lý chính",
+  "time": "Hạn xử lý",
+  "Issued": "Đã ban hành",
+  "open": "Mở",
+  "mainProcessing": "Xử lý chính",
+  "participateInProcessing" : "Tham gia xử lý"
+}

@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "Eoffice vnio",
+    "slug": "ebizoffice-vnio",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/app-icon.jpg",
+    "userInterfaceStyle": "light",
+    "scheme": "ebizoffice",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.ebizoffice.vnio"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/app-icon.jpg",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.ebizoffice.vnio",
+      "softwareKeyboardLayoutMode": "pan"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}

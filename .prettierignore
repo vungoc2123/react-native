@@ -1,0 +1,10 @@
+# dependencies
+node_modules/
+
+# Expo
+.expo/
+web-build/
+
+assets
+android
+ios

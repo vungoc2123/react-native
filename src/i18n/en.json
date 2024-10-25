@@ -1,0 +1,170 @@
+{
+  "global": {
+    "responseMessage": {
+      "cameraPermissionDenied": "Camera permission denied"
+    },
+    "role": {
+      "contractor": "Service users",
+      "worker": "Service providers",
+      "guest": "Guest"
+    },
+    "errorMessage": {
+      "required": "Required",
+      "min8": "Password must be minimum 8 characters",
+      "match": "The passwords entered do not match",
+      "notExceeding19Characters.": "Not exceeding 19 characters",
+      "invalidEmail": "Invalid email",
+      "invalidPhoneNumber": "Invalid phone number",
+      "pleaseAgreeToTheTermsToProceed": "Please agree to the terms to proceed",
+      "noAccents": "Please enter without accents",
+      "specialChar": "Must contain at least 1 special character"
+    },
+    "search": "Search",
+    "noData": "No Data",
+    "continue": "Continue",
+    "register": "Register",
+    "findOutMore": "Find out more",
+    "pleaseSelect": "Please select",
+    "tryAgain": "Try again",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "goRegistration": "Go to registration",
+    "locale": "en"
+  },
+  "login": {
+    "login": "Login",
+    "userName": "User name",
+    "password": "Password",
+    "rememberPassword": "Remember password",
+    "forgotPassword": "Forgot password?",
+    "noAccount": "No account"
+  },
+  "register": {
+    "exists": "Exists an account?",
+    "register": "Register",
+    "individual": "Individual",
+    "business": "Business",
+    "businessAccount": "Business Account",
+    "personalAccount": "Personal Account",
+    "selectTheTypeAccount": "Select the type of account to register",
+    "fillPhoneNumber": "Please fill in your phone number",
+    "des1": "To create an account, begin with your phone number",
+    "phoneNumber": "Phone number",
+    "sendOTP": "Send the OTP",
+    "createAccount": "Create an account",
+    "des2": "Use a unique username and a password with at least 8 characters, including 1 special character.",
+    "ReEnterPassword": "Re-enter password",
+    "created": "Account created successfully",
+    "des3": "The password must be at least 8 characters",
+    "des4": "It must contain at least 1 special character",
+    "des5": "Are you an individual or representing a business?"
+  },
+  "onboard": {
+    "welcomeBack": "Welcome back",
+    "welcome": "Welcome to San Co Hoi",
+    "description": "A platform that creates opportunities for everyone",
+    "viewAsQuest": "View as a Guest",
+    "login": "Login",
+    "chooseSectors": "Choose interested sectors",
+    "chooseMaximum": "Choose maximum {{max}} sectors",
+    "chooseRegion": "Choose region",
+    "province": "Province",
+    "district": "District"
+  },
+  "OTP": {
+    "expired": "The code has expired.",
+    "expiredWithin": "The code expired within",
+    "resend": "Resend",
+    "OTPVerification": "OTP verification",
+    "des1": "We have just sent the OTP code to number"
+  },
+  "post": {
+    "postAs": "Post as",
+    "des1": "Are you looking to use a service or provide a service?",
+    "opportunityExchange": "Opportunity exchange",
+    "opportunityReception": "Opportunity reception",
+    "budget": "Budget",
+    "area": "Area"
+  },
+  "search": {
+    "mostSuitable": "Most suitable",
+    "newest": "Newest",
+    "seeMore": "See more",
+    "less": "Less",
+    "findPosts": "Find posts"
+  },
+  "setting": {
+    "accountManagement": "Account management",
+    "profile": "Profile",
+    "settings": "Settings",
+    "helps": "Helps",
+    "policiesTerms": "Policies and Terms",
+    "switchAccount": "Switch Account",
+    "account": {
+      "conversionSuccessful": "Account conversion successful"
+    }
+  },
+  "contract": {
+    "inProgress": "In progress"
+  },
+  "KYC": {
+    "notKYC": "You need to complete KYC to verify your account and finalize your personal information",
+    "inProgressKYC": "Your KYC process is under review. We will notify you of the results as soon as possible",
+    "rejectKYC": "Your KYC process has been denied. Please check and try again.",
+    "inProgressStatus": "Awaiting approval",
+    "approvedStatus": "Approved",
+    "rejectStatus": "Reject",
+    "notAuthenticatedStatus": "not yet authenticated"
+  },
+  "datePicker": {
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "monthNames": {
+      "month1": "January",
+      "month2": "February",
+      "month3": "March",
+      "month4": "April",
+      "month5": "May",
+      "month6": "June",
+      "month7": "July",
+      "month8": "August",
+      "month9": "September",
+      "month10": "October",
+      "month11": "November",
+      "month12": "December"
+    },
+    "monthShort": {
+      "monthShort1": "Jan",
+      "monthShort2": "Feb",
+      "monthShort3": "Mar",
+      "monthShort4": "Apr",
+      "monthShort5": "May",
+      "monthShort6": "Jun",
+      "monthShort7": "Jul",
+      "monthShort8": "Aug",
+      "monthShort9": "Sep",
+      "monthShort10": "Oct",
+      "monthShort11": "Nov",
+      "monthShort12": "Dec"
+    },
+    "dayNames": {
+      "sunday": "Sunday",
+      "monday": "Monday",
+      "tuesday": "Tuesday",
+      "wednesday": "Wednesday",
+      "thursday": "Thursday",
+      "friday": "Friday",
+      "saturday": "Saturday"
+    },
+    "dayNamesShort": {
+      "sunday": "Sun",
+      "monday": "Mon",
+      "tuesday": "Tue",
+      "wednesday": "Wed",
+      "thursday": "Thu",
+      "friday": "Fri",
+      "saturday": "Sat"
+    },
+    "today": "Today"
+  }
+}
